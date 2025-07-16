@@ -1,4 +1,6 @@
 package com.example.rickandmortyapi.ui.theme.viewModel
 
-class MainViewModel {
+import androidx.lifecycle.ViewModel
+
+class MainViewModel(): ViewModel() {
 }
